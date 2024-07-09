@@ -83,3 +83,4 @@ Cruelty un available
 
 # License
 
+[GPL-3.0 license](https://github.com/Kaktur/Minecraft_RTX_Animated_Wallpapers/blob/main/LICENSE)
