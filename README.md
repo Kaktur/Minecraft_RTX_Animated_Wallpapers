@@ -6,7 +6,7 @@ Put these animated wallpapers in the background of your fire fox start page
 2. Go to `about:support` in the address bar of your Firefox. View the section **"Application Basics"** ➔ **Profile Directory** (or **"Profile Folder"** on MacOS) ➔ click the button **"Open Directory"** (or **"Show in Finder"** on MacOS).
 It should open your Firefox profile directory, which is usually in your $HOME directory.
 
-3. Put the downloaded **chrome** folder in to the opend directory.
+3. Put the downloaded **chrome** folder in to the opened directory.
 
 
 4. Go to the url `about:config`, accept the risk (we will not really do anything harmful here, nothing to worry about), and in the Search Bar, paste `toolkit.legacyUserProfileCustomizations.stylesheets`, and set the value to true.
