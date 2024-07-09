@@ -1,4 +1,4 @@
-![minecraft_title](https://github.com/Kaktur/Minecraft_RTX_Animated_Wallpapers/blob/main/Fox%20Forest/chrome/mc_bg_fox2.webp)
+![minecraft_title](https://github.com/Kaktur/Minecraft_RTX_Animated_Wallpapers/blob/main/firefox/Fox%20Forest/chrome/mc_bg_fox2.webp)
 
 Put these animated wallpapers in the background of your browsers start page
 
