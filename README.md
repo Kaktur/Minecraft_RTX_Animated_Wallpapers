@@ -1,4 +1,4 @@
-![minecraft_title](https://github.com/Kaktur/Minecraft_RTX_Animated_Wallpapers/blob/main/Fox%20Forest/chrome/mc_bg_fox2.webp)
+![minecraft_title](https://github.com/Kaktur/Minecraft_RTX_Animated_Wallpapers/blob/main/firefox/Fox%20Forest/chrome/mc_bg_fox2.webp)
 
 Put these animated wallpapers in the background of your browsers start page
 
@@ -11,7 +11,7 @@ Put these animated wallpapers in the background of your browsers start page
 <summary>1. userContent.css</summary>
 
 1. Download the **chrome** folder for a background:
-    * [Fox Forest](https://github.com/Kaktur/Minecraft_RTX_Animated_Wallpapers/tree/3203d030edcda13f20d9fc89b8635d65b213c24f/Fox%20Forest/chrome)
+    * [Fox Forest](https://github.com/Kaktur/Minecraft_RTX_Animated_Wallpapers/tree/main/firefox/Fox%20Forest/chrome)
     * ~~[Ancient Chapel]()~~ currently un available
 2. Go to `about:support` in the address bar of your Firefox. View the section **"Application Basics"** ➔ **Profile Directory** (or **"Profile Folder"** on MacOS) ➔ click the button **"Open Directory"** (or **"Show in Finder"** on MacOS).
 It should open your Firefox profile directory, which is usually in your $HOME directory.
@@ -40,8 +40,11 @@ A css file that allows you to modify the start page
 
 ### On chrome Use a extension that adds live wallpapers
 1. Download selected theme video:
-    * [Fox Forest]()
-    * [Ancient Chapel]()
+    * [Fox Forest](https://github.com/Kaktur/Minecraft_RTX_Animated_Wallpapers/raw/main/webp/fox.webm?download=)
+    * [Ancient Chapel day](https://github.com/Kaktur/Minecraft_RTX_Animated_Wallpapers/raw/main/webp/bee_day.webm?download=)
+      Starts loop at day
+    * [Ancient Chapel niht](https://github.com/Kaktur/Minecraft_RTX_Animated_Wallpapers/raw/main/webp/bee_night.webm?download=)
+      Starts loop at night
 2. Get [MOTIONTABS](https://chromewebstore.google.com/detail/motiontabs-best-live-wall/fenjmhlfpbhnbgbdehnnomhnhafedbmp?utm_source=ext_app_menu) or a dirent extension that supports `.webm` files.
 3. Add it to the extension 
     * for MOTIONTABS go to `videos` in bottom left corner of the start start.
@@ -67,8 +70,11 @@ Cruelty un available
 <summary>install the theme extension manually</summary>
 
 - Download selected theme:
-    * [Fox Forest]()
-    * [Ancient Chapel]()
+    * [Fox Forest](https://github.com/Kaktur/Minecraft_RTX_Animated_Wallpapers/raw/main/opera/fox.zip?download=)
+    * [Ancient Chapel day](https://github.com/Kaktur/Minecraft_RTX_Animated_Wallpapers/raw/main/opera/bee_day.zip?download=)
+      Starts loop at day
+    * [Ancient Chapel niht](https://github.com/Kaktur/Minecraft_RTX_Animated_Wallpapers/raw/main/opera/bee_night.zip?download=)
+      Starts loop at night
 
 
 </details>
