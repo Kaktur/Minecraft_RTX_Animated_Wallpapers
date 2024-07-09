@@ -70,10 +70,10 @@ Cruelty un available
 <summary>install the theme extension manually</summary>
 
 - Download selected theme:
-    * [Fox Forest]()
-    * [Ancient Chapel day]()
+    * [Fox Forest](https://github.com/Kaktur/Minecraft_RTX_Animated_Wallpapers/raw/main/opera/fox.zip?download=)
+    * [Ancient Chapel day](https://github.com/Kaktur/Minecraft_RTX_Animated_Wallpapers/raw/main/opera/bee_day.zip?download=)
       Starts loop at day
-    * [Ancient Chapel niht]()
+    * [Ancient Chapel niht](https://github.com/Kaktur/Minecraft_RTX_Animated_Wallpapers/raw/main/opera/bee_night.zip?download=)
       Starts loop at night
 
 
